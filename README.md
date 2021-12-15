@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hasan Mert Sezer. I'm a Computer Science Student.
+- 👀 I’m interested in Full Stack Developing / Web 3.0 / Cryptocurrency / Economy
+- 🌱 I’m currently learning JavaScript / CSS / HTML / React / SASS
+- 📫 How to reach me: hasanmertsezers@gmail.com
